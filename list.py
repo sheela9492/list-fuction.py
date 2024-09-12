@@ -20,3 +20,5 @@ lucky_number.reverse()
 print(lucky_number)
 friends2=friends.copy
 print(friends2)
+friends2.clear()
+print(friends2)
